@@ -1,0 +1,24 @@
+{
+  "name": "proyectowebmern_ciclo4",
+  "version": "1.0.0",
+  "description": "Shop",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BaxstianTwentyThree/ProyectoWebMern_Ciclo4.git"
+  },
+  "keywords": [
+    "Ecommerce",
+    "MERN",
+    "stack"
+  ],
+  "author": "System.out.team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BaxstianTwentyThree/ProyectoWebMern_Ciclo4/issues"
+  },
+  "homepage": "https://github.com/BaxstianTwentyThree/ProyectoWebMern_Ciclo4#readme"
+}
